@@ -1,0 +1,15 @@
+*   3cad7d5 Merge branch '8-mark-a-task-as-completed-by-name'
+|\  
+| * fbc844d Implement markTaskAsCompletedByName
+* |   74cff75 Merge pull request #10 from NaumVlavceski/3-list-tasks-sorted-by-name
+|\ \  
+| * | 798616a Implement listTaskSortedByName
+| |/  
+* |   3a15585 Merge pull request #12 from NaumVlavceski/9-mark-all-tasks-in-a-category-as-completed
+|\ \  
+| |/  
+|/|   
+| * 4c643cc Implement markAllTaskInCategoryAsCompleted
+|/  
+* 39c9051 Add starter code
+* 5f84b0d Initial commit

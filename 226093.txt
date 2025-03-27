@@ -1,0 +1,17 @@
+1. git fetch origin (za da gi dobieme site branch)
+2. git checkout 3-listTaskSortedByName
+3. se implementira funkcijata vo SI2025Lab1Main.java
+4. git add SI2025Lab1Main.java
+git commit -m "Implement listTaskSortedByName"
+5. git push
+6. git checkout master
+git pull origin master
+git merge 3-listTaskSortedByName
+git commit -m "Reslove problem"
+---Povtoreno 2 pati preku github --- 
+7. git push 
+8. git log --oneline --graph --all > logs.txt
+nano 226093.txt (dodavam dokumentacija)
+git add .
+git commit -m "Final commit"
+9.git push
